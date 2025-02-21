@@ -12,4 +12,5 @@
 LOS QUE SIEMPRE OCUPAN BODY y ENCABEZADO (headers) SON *put y post*
 
 
-base, llamados
+base, llamados, 
+editar y eliminar
