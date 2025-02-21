@@ -1,0 +1,16 @@
+{
+    "productos":[
+        {
+            "id": 0,
+            "nombreProducto": "T.V",
+            "precioProducto": 1000000,
+            "cantidadProducto": 5
+        },
+        {
+            "id": 1,
+            "nombreProducto": "Celular",
+            "precioProducto": 1000000,
+            "cantidadProducto": 5
+        }
+    ]
+}

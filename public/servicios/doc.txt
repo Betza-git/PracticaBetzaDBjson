@@ -1,0 +1,15 @@
+{
+    "productos":[
+        {
+            "id": 0,
+            "nombreProducto": "T.V",
+            "precioProducto": 1000000,
+            "cantidadProducto": 5
+        }
+    ]
+}
+
+LOS QUE SIEMPRE OCUPAN BODY y ENCABEZADO (headers) SON *put y post*
+
+
+base, llamados
